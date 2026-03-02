@@ -1,0 +1,5 @@
+{
+  "name": "Cyberpunk Vision",
+  "description": "Generate and edit cyberpunk-themed images using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
